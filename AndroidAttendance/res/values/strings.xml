@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidAttendance</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="loginwithfacebook">Login with Facebook</string>
+    <string name="title_activity_face_detection_example">FaceDetectionExample</string>
+	<string name="app_info">Click on the \'Take Picture\' to take a picture using Camera.</string>
+	<string name="take_picture">Take Picture</string>
+	<string name="detect_face">Detect Face</string>
+	<string name="btn_upload">Upload to Facebook</string>
+
+</resources>
